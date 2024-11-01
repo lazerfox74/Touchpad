@@ -1,4 +1,4 @@
-# touchPad
+# TouchPad
 
 [Demo 1](https://youtu.be/57ZCXJ5sC2Y)
 
